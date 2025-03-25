@@ -22,7 +22,6 @@ The dataset contains various attributes, including:
 ### 3. Model Building & Evaluation  
 - Built multiple models: **Logistic Regression, Decision Tree, Random Forest, AdaBoost, XGBoost**.  
 - Applied **hyperparameter tuning** to optimize model performance.  
-- Evaluated models using **accuracy, precision, recall, and F1-score**.  
 - Selected the best-performing model for final predictions.  
 
 ## Technologies Used  
